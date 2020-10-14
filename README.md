@@ -1,4 +1,5 @@
 # assign2git
-Christopher Barcelon \newline
-First comment \newline
+Christopher Barcelon 
+First comment 
 testbranch change
+new git branch on GitHub directly
